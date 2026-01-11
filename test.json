@@ -9,5 +9,16 @@
     "IP_Address": "123.456.789.012",
     "Device": "Mozilla/5.0...",
     "Lokasi": "Jakarta, Indonesia"
+  },
+  {
+    "Nama_Lengkap": "dapa",
+    "Username": "dapa",
+    "Nomor": "08549494884",
+    "Email": "anjay@gmail.com",
+    "Password": "gagagsvs",
+    "Tanggal_Daftar": "2026-01-11T09:35:02.163Z",
+    "IP_Address": "140.213.31.36",
+    "Device": "Mozilla/5.0 (Linux; Android 15; 2312DRAABG Build/AP3A.240905.015.A2; wv) AppleWebKit/537.36 (KHTML, ",
+    "Lokasi": "South Tangerang, Indonesia"
   }
 ]
