@@ -1,9 +1,13 @@
 [
-{
-"Nama_Lengkap": "",
-"Username": "",
-"Nomor": "",
-"Email": "",
-"Password": "",
-}
+  {
+    "Nama_Lengkap": "Ahmad Santoso",
+    "Username": "ahmad123",
+    "Nomor": "081234567890",
+    "Email": "ahmad@gmail.com",
+    "Password": "Pass1234!",
+    "Tanggal_Daftar": "2024-01-06T21:30:00.000Z",
+    "IP_Address": "123.456.789.012",
+    "Device": "Mozilla/5.0...",
+    "Lokasi": "Jakarta, Indonesia"
+  }
 ]
